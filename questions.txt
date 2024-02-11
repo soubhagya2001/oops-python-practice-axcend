@@ -1,0 +1,29 @@
+1. *Bank Account:*
+   Create a BankAccount class with methods to deposit, withdraw, and display balance.
+
+2. *Student Information:*
+   Define a Student class with attributes like name, age, and grade. Add methods to display information and calculate a grade.
+
+3. *Book Library:*
+   Implement a Book class with attributes like title, author, and pages. Create a library class to manage a collection of books.
+
+4. *Shapes Area:*
+   Design a Shape class with methods to calculate the area. Create subclasses like Circle and Rectangle with specific implementations.
+
+5. *Employee Management:*
+   Build an Employee class with attributes like name, salary, and designation. Implement methods for a salary raise and display employee details.
+
+6. *Temperature Converter:*
+   Develop a TemperatureConverter class with methods to convert between Celsius and Fahrenheit.
+
+7. *Todo List:*
+   Create a TodoList class to manage tasks. Include methods to add, remove, and display tasks.
+
+8. *Animal Kingdom:*
+   Design a Animal class with common attributes. Create subclasses for specific animals with unique characteristics.
+
+9. *Shopping Cart:*
+   Implement a ShoppingCart class to add, remove, and display items. Include methods to calculate the total price.
+
+10. *Car Rental System:*
+    Build a simple car rental system with classes like Car, Customer, and RentalAgency. Implement methods for renting and returning customer
